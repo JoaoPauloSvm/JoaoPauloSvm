@@ -1,5 +1,5 @@
 <h1 align="center">Olá 😁, Eu sou João Paulo Svm</h1>
-- 📚 Estou estudando no momento **JavaScript**
+- 📚 Estou estudando no momento: **JavaScript**
 
 - ⚡ Fato Divertido: **Eu curto jogos, filmes e séries**
 
