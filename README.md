@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulosvm&show_icons=true&theme=onedark&locale=pt-br&layout=compact" alt="joaopaulosvm" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joão-paulo-souza-dos-santos-3881741b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-paulo-souza-dos-santos-3881741b6/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-3881741b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-paulo-souza-dos-santos-3881741b6/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
