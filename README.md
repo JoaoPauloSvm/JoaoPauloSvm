@@ -1,5 +1,5 @@
 <h1 align="center">Olá 😁, Eu sou João Paulo Svm</h1>
-- 📚 Estou estudando no momento: <b>JavaScript</b>
+- 📚 Estou estudando no momento: <b>JavaScript</b> e <b>React JS </b>
 
 - ⚡ Fato Divertido: **Eu curto jogos, filmes e séries**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulosvm&show_icons=true&theme=onedark&locale=pt-br&layout=compact" alt="joaopaulosvm" /></p>
