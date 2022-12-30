@@ -1,7 +1,7 @@
 <h1 align="center">Olá 😁, Eu sou João Paulo Svm</h1>
 - 📚 Estou estudando no momento: <b>JavaScript</b> e <b>React JS </b>
 
-- ⚡ Fato Divertido: **Eu curto jogos (Tenho carinho pelo Silent Hill 2), filmes e séries**
+- ⚡ Fato Divertido: **Eu curto jogos ( Tenho carinho pelo Silent Hill 2), filmes e séries**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulosvm&show_icons=true&theme=onedark&locale=pt-br&layout=compact" alt="joaopaulosvm" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
